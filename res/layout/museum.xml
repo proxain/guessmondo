@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout android:id="@+id/title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/titleground"
+                    android:gravity="center">
+        <ImageView android:id="@+id/trophy_icon"
+                   android:layout_height="wrap_content"
+                   android:layout_width="wrap_content"
+                   android:src="@drawable/trophy_icon_3"
+
+                   />
+        <TextView android:id="@+id/title_name"
+                  android:layout_height="wrap_content"
+                  android:layout_width="wrap_content"
+                  android:layout_toRightOf="@id/title"
+                  android:text="Museum"
+                  android:textSize="32sp"
+                  android:textStyle="bold"
+                  android:textColor="#2a4d98"
+                  android:padding="8dp"/>
+                    </LinearLayout>
+
+    <GridView
+              android:id="@+id/grid_view"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_below="@+id/title"
+              android:background="#cbdc80"
+              android:numColumns="auto_fit"
+              android:columnWidth="90dp"
+              android:horizontalSpacing="10dp"
+              android:verticalSpacing="10dp"
+              android:gravity="center"
+              android:stretchMode="columnWidth" >
+
+    </GridView>
+
+</RelativeLayout>

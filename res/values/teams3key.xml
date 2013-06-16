@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uru_teams">
+        <item>ARG</item>
+        <item>CHI</item>
+        <item>FRA</item>
+        <item>MEX</item>
+
+        <item>YUG</item>
+        <item>BRA</item>
+        <item>BOL</item>
+
+        <item>URU</item>
+        <item>ROM</item>
+        <item>PER</item>
+
+        <item>USA</item>
+        <item>PAR</item>
+        <item>BEL</item>
+    </string-array>
+
+	<string-array name="ita_teams">
+        <item>ESP</item>
+        <item>BRA</item>
+        <item>HUN</item>
+        <item>EGY</item>
+
+        <item>SUI</item>
+        <item>NED</item>
+        <item>ITA</item>
+        <item>USA</item>
+
+        <item>TCH</item>
+        <item>ROM</item>
+        <item>SWE</item>
+        <item>ARG</item>
+
+        <item>AUT</item>
+        <item>FRA</item>
+        <item>GER</item>
+        <item>BEL</item>
+    </string-array>
+
+	<string-array name="fra_teams">
+        <item>SUI</item>
+        <item>GER</item>
+        <item>HUN</item>
+        <item>IDN</item>
+
+        <item>SWE</item>
+        <item>AUT</item>
+        <item>CUB</item>
+        <item>ROM</item>
+
+        <item>FRA</item>
+        <item>BEL</item>
+        <item>ITA</item>
+        <item>NOR</item>
+
+        <item>BRA</item>
+        <item>POL</item>
+        <item>TCH</item>
+        <item>NED</item>
+    </string-array>
+
+    <string-array name="bra_teams">
+        <item>BRA</item>
+        <item>YUG</item>
+        <item>SUI</item>
+        <item>MEX</item>
+
+        <item>ESP</item>
+        <item>ENG</item>
+        <item>CHI</item>
+        <item>USA</item>
+
+        <item>SWE</item>
+        <item>ITA</item>
+        <item>PAR</item>
+        <item>IND</item>
+
+        <item>URU</item>
+        <item>BOL</item>
+        <item>FRA</item>
+    </string-array>
+
+	<string-array name="sui_teams">
+        <item>BRA</item>
+        <item>YUG</item>
+        <item>FRA</item>
+        <item>MEX</item>
+
+        <item>HUN</item>
+        <item>GER</item>
+        <item>TUR</item>
+        <item>KOR</item>
+
+        <item>URU</item>
+        <item>AUT</item>
+        <item>TCH</item>
+        <item>SCO</item>
+
+        <item>ENG</item>
+        <item>SUI</item>
+        <item>ITA</item>
+        <item>BEL</item>
+    </string-array>
+
+	<string-array name="swe_teams">
+        <item>GER</item>
+        <item>NIR</item>
+        <item>TCH</item>
+        <item>ARG</item>
+
+        <item>FRA</item>
+        <item>YUG</item>
+        <item>PAR</item>
+        <item>SCO</item>
+
+        <item>SWE</item>
+        <item>WAL</item>
+        <item>HUN</item>
+        <item>MEX</item>
+
+        <item>BRA</item>
+        <item>RUS</item>
+        <item>ENG</item>
+        <item>AUT</item>
+    </string-array>
+
+    <string-array name="chi_teams">
+        <item>RUS</item>
+        <item>YUG</item>
+        <item>URU</item>
+        <item>COL</item>
+>
+        <item>GER</item>
+        <item>CHI</item>
+        <item>ITA</item>
+        <item>SUI</item>
+
+        <item>BRA</item>
+        <item>TCH</item>
+        <item>MEX</item>
+        <item>ESP</item>
+
+        <item>HUN</item>
+        <item>ENG</item>
+        <item>ARG</item>
+        <item>BUL</item>
+    </string-array>
+
+    <string-array name="eng_teams">
+        <item>ENG</item>
+        <item>URU</item>
+        <item>MEX</item>
+        <item>FRA</item>
+
+        <item>GER</item>
+        <item>ARG</item>
+        <item>ESP</item>
+        <item>SUI</item>
+
+        <item>POR</item>
+        <item>HUN</item>
+        <item>BRA</item>
+        <item>BUL</item>
+
+        <item>RUS</item>
+        <item>PRK</item>
+        <item>ITA</item>
+        <item>CHI</item>
+    </string-array>
+
+    <string-array name="mex_teams">
+        <item>RUS</item>
+        <item>MEX</item>
+        <item>BEL</item>
+        <item>SLV</item>
+
+        <item>ITA</item>
+        <item>URU</item>
+        <item>SWE</item>
+        <item>ISR</item>
+
+        <item>BRA</item>
+        <item>ENG</item>
+        <item>ROM</item>
+        <item>TCH</item>
+
+        <item>GER</item>
+        <item>PER</item>
+        <item>BUL</item>
+        <item>MAR</item>
+    </string-array>
+
+	<string-array name="ger_teams">
+        <item>GDR</item>
+        <item>GER</item>
+        <item>CHI</item>
+        <item>AUS</item>
+
+        <item>YUG</item>
+        <item>BRA</item>
+        <item>SCO</item>
+        <item>COD</item>
+
+        <item>NED</item>
+        <item>SWE</item>
+        <item>BUL</item>
+        <item>URU</item>
+
+        <item>POL</item>
+        <item>ARG</item>
+        <item>ITA</item>
+        <item>HAI</item>
+    </string-array>
+
+	<string-array name="arg_teams">
+        <item>ITA</item>
+        <item>ARG</item>
+        <item>FRA</item>
+        <item>HUN</item>
+
+        <item>POL</item>
+        <item>GER</item>
+        <item>TUN</item>
+        <item>MEX</item>
+
+        <item>AUT</item>
+        <item>BRA</item>
+        <item>ESP</item>
+        <item>SWE</item>
+
+        <item>PER</item>
+        <item>NED</item>
+        <item>SCO</item>
+        <item>IRN</item>
+    </string-array>
+
+    <string-array name="esp_teams">
+        <item>POL</item>
+        <item>ITA</item>
+        <item>CMR</item>
+        <item>PER</item>
+
+        <item>GER</item>
+        <item>AUT</item>
+        <item>ALG</item>
+        <item>CHI</item>
+
+        <item>BEL</item>
+        <item>ARG</item>
+        <item>HUN</item>
+        <item>SLV</item>
+
+        <item>ENG</item>
+        <item>FRA</item>
+        <item>TCH</item>
+        <item>KUW</item>
+
+        <item>NIR</item>
+        <item>ESP</item>
+        <item>YUG</item>
+        <item>HON</item>
+
+        <item>BRA</item>
+        <item>RUS</item>
+        <item>SCO</item>
+        <item>NZL</item>
+    </string-array>
+
+	<string-array name="mex_teams1">
+        <item>ARG</item>
+        <item>ITA</item>
+        <item>BUL</item>
+        <item>KOR</item>
+
+        <item>MEX</item>
+        <item>PAR</item>
+        <item>BEL</item>
+        <item>IRQ</item>
+
+        <item>RUS</item>
+        <item>FRA</item>
+        <item>HUN</item>
+        <item>CAN</item>
+
+        <item>BRA</item>
+        <item>ESP</item>
+        <item>NIR</item>
+        <item>ALG</item>
+
+        <item>DEN</item>
+        <item>GER</item>
+        <item>URU</item>
+        <item>SCO</item>
+
+        <item>MAR</item>
+        <item>ENG</item>
+        <item>POL</item>
+        <item>POR</item>
+    </string-array>
+
+    <string-array name="ita_teams1">
+        <item>ITA</item>
+        <item>TCH</item>
+        <item>AUT</item>
+        <item>USA</item>
+
+        <item>CMR</item>
+        <item>ROM</item>
+        <item>ARG</item>
+        <item>RUS</item>
+
+        <item>BRA</item>
+        <item>CRC</item>
+        <item>SCO</item>
+        <item>SWE</item>
+
+        <item>GER</item>
+        <item>YUG</item>
+        <item>COL</item>
+        <item>UAE</item>
+
+        <item>ESP</item>
+        <item>BEL</item>
+        <item>URU</item>
+        <item>KOR</item>
+
+        <item>ENG</item>
+        <item>IRL</item>
+        <item>NED</item>
+        <item>EGY</item>
+    </string-array>
+
+    <string-array name="usa_teams">
+        <item>ROM</item>
+        <item>SUI</item>
+        <item>USA</item>
+        <item>COL</item>
+
+        <item>BRA</item>
+        <item>SWE</item>
+        <item>RUS</item>
+        <item>CMR</item>
+
+        <item>GER</item>
+        <item>ESP</item>
+        <item>KOR</item>
+        <item>BOL</item>
+
+        <item>NGA</item>
+        <item>BUL</item>
+        <item>ARG</item>
+        <item>GRE</item>
+
+        <item>MEX</item>
+        <item>IRL</item>
+        <item>ITA</item>
+        <item>NOR</item>
+
+        <item>NED</item>
+        <item>KSA</item>
+        <item>BEL</item>
+        <item>MAR</item>
+    </string-array>
+
+    <string-array name="fra_teams1">
+        <item>BRA</item>
+        <item>NOR</item>
+        <item>MAR</item>
+        <item>SCO</item>
+
+        <item>ITA</item>
+        <item>CHI</item>
+        <item>AUT</item>
+        <item>CMR</item>
+
+        <item>FRA</item>
+        <item>DEN</item>
+        <item>RSA</item>
+        <item>KSA</item>
+
+        <item>NGA</item>
+        <item>PAR</item>
+        <item>ESP</item>
+        <item>BUL</item>
+
+        <item>NED</item>
+        <item>MEX</item>
+        <item>BEL</item>
+        <item>KOR</item>
+
+        <item>GER</item>
+        <item>YUG</item>
+        <item>IRN</item>
+        <item>USA</item>
+
+        <item>ROM</item>
+        <item>ENG</item>
+        <item>COL</item>
+        <item>TUN</item>
+
+        <item>ARG</item>
+        <item>CRO</item>
+        <item>JAM</item>
+        <item>JPN</item>
+    </string-array>
+
+    <string-array name="jpa_teams">
+        <item>DEN</item>
+        <item>SEN</item>
+        <item>URU</item>
+        <item>FRA</item>
+
+        <item>ESP</item>
+        <item>PAR</item>
+        <item>RSA</item>
+        <item>SVN</item>
+
+        <item>BRA</item>
+        <item>TUR</item>
+        <item>CRC</item>
+        <item>CHN</item>
+
+        <item>KOR</item>
+        <item>USA</item>
+        <item>POR</item>
+        <item>POL</item>
+
+        <item>GER</item>
+        <item>IRL</item>
+        <item>CMR</item>
+        <item>KSA</item>
+
+        <item>SWE</item>
+        <item>ENG</item>
+        <item>ARG</item>
+        <item>NGA</item>
+
+        <item>MEX</item>
+        <item>ITA</item>
+        <item>CRO</item>
+        <item>ECU</item>
+
+        <item>JPN</item>
+        <item>BEL</item>
+        <item>RUS</item>
+        <item>TUN</item>
+    </string-array>
+
+    <string-array name="ger_teams1">
+        <item>GER</item>
+        <item>ECU</item>
+        <item>POL</item>
+        <item>CRC</item>
+
+        <item>ENG</item>
+        <item>SWE</item>
+        <item>PAR</item>
+        <item>TRI</item>
+
+        <item>ARG</item>
+        <item>NED</item>
+        <item>CIV</item>
+        <item>SRM</item>
+
+        <item>POR</item>
+        <item>MEX</item>
+        <item>ANG</item>
+        <item>IRN</item>
+
+        <item>ITA</item>
+        <item>GHA</item>
+        <item>CZE</item>
+        <item>USA</item>
+
+        <item>BRA</item>
+        <item>AUS</item>
+        <item>CRO</item>
+        <item>JPN</item>
+
+        <item>SUI</item>
+        <item>FRA</item>
+        <item>KOR</item>
+        <item>TOG</item>
+
+        <item>ESP</item>
+        <item>UKR</item>
+        <item>TUN</item>
+        <item>KSA</item>
+    </string-array>
+
+    <string-array name="rsa_teams">
+        <item>URU</item>
+        <item>MEX</item>
+        <item>RSA</item>
+        <item>FRA</item>
+
+        <item>ARG</item>
+        <item>KOR</item>
+        <item>GRE</item>
+        <item>NGA</item>
+
+        <item>USA</item>
+        <item>ENG</item>
+        <item>SVN</item>
+        <item>ALG</item>
+
+        <item>GER</item>
+        <item>GHA</item>
+        <item>AUS</item>
+        <item>SRB</item>
+
+        <item>NED</item>
+        <item>JPN</item>
+        <item>DEN</item>
+        <item>CMR</item>
+
+        <item>PAR</item>
+        <item>SVK</item>
+        <item>NZL</item>
+        <item>ITA</item>
+
+        <item>BRA</item>
+        <item>POR</item>
+        <item>CIV</item>
+        <item>PRK</item>
+
+        <item>ESP</item>
+        <item>CHI</item>
+        <item>SUI</item>
+        <item>HON</item>
+    </string-array>
+</resources>

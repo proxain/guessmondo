@@ -1,0 +1,701 @@
+<resources>
+    <string-array name="TeamsA30">
+        <item>ARG</item>
+        <item>CHL</item>
+        <item>FRA</item>
+        <item>MEX</item>
+    </string-array>
+
+    <string-array name="TeamsB30">
+        <item>YUG</item>
+        <item>BRA</item>
+        <item>BOL</item>
+    </string-array>
+
+    <string-array name="TeamsC30">
+        <item>URU</item>
+        <item>ROM</item>
+        <item>PER</item>
+    </string-array>
+
+    <string-array name="TeamsD30">
+        <item>USA</item>
+        <item>PAR</item>
+        <item>BEL</item>
+    </string-array>
+
+    <string-array name="Teams34">
+        <item>ESP</item>
+        <item>BRA</item>
+        <item>EGY</item>
+        <item>HUN</item>
+
+        <item>SUI</item>
+        <item>NED</item>
+        <item>ITA</item>
+        <item>USA</item>
+
+        <item>TCH</item>
+        <item>ROM</item>
+        <item>SWE</item>
+        <item>ARG</item>
+
+        <item>AUT</item>
+        <item>FRA</item>
+        <item>GER</item>
+        <item>BEL</item>
+    </string-array>
+
+    <string-array name="Teams38">
+        <item>SUI</item>
+        <item>GER</item>
+        <item>HUN</item>
+        <item>IDN</item>
+
+        <item>SWE</item>
+        <item>AUT</item>
+        <item>CUB</item>
+        <item>ROM</item>
+
+        <item>FRA</item>
+        <item>BEL</item>
+        <item>ITA</item>
+        <item>NOR</item>
+
+        <item>BRA</item>
+        <item>POL</item>
+        <item>TCH</item>
+        <item>NED</item>
+    </string-array>
+
+    <string-array name="TeamsA50">
+        <item>BRA</item>
+        <item>YUG</item>
+        <item>SUI</item>
+        <item>MEX</item>
+    </string-array>
+
+    <string-array name="TeamsB50">
+        <item>ESP</item>
+        <item>ENG</item>
+        <item>CHL</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="TeamsC50">
+        <item>SWE</item>
+        <item>ITA</item>
+        <item>PAR</item>
+        <item>IND</item>
+    </string-array>
+
+    <string-array name="TeamsD50">
+        <item>URU</item>
+        <item>BOL</item>
+        <item>FRA</item>
+    </string-array>
+
+    <string-array name="TeamsA54">
+        <item>BRA</item>
+        <item>YUG</item>
+        <item>FRA</item>
+        <item>MEX</item>
+    </string-array>
+
+    <string-array name="TeamsB54">
+        <item>HUN</item>
+        <item>GER</item>
+        <item>TUR</item>
+        <item>KOR</item>
+    </string-array>
+
+    <string-array name="TeamsC54">
+        <item>URU</item>
+        <item>AUT</item>
+        <item>TCH</item>
+        <item>SCO</item>
+    </string-array>
+
+    <string-array name="TeamsD54">
+        <item>ENG</item>
+        <item>SUI</item>
+        <item>ITA</item>
+        <item>BEL</item>
+    </string-array>
+
+    <string-array name="Teams54PlayOff">
+        <item>GER</item>
+        <item>TUR</item>
+        <item>SUI</item>
+        <item>ITA</item>
+    </string-array>
+
+    <string-array name="TeamsA58">
+        <item>GER</item>
+        <item>NIR</item>
+        <item>TCH</item>
+        <item>ARG</item>
+    </string-array>
+
+    <string-array name="TeamsB58">
+        <item>FRA</item>
+        <item>YUG</item>
+        <item>PAR</item>
+        <item>SCO</item>
+    </string-array>
+
+    <string-array name="TeamsC58">
+        <item>SWE</item>
+        <item>WAL</item>
+        <item>HUN</item>
+        <item>MEX</item>
+    </string-array>
+
+    <string-array name="TeamsD58">
+        <item>BRA</item>
+        <item>RUS</item>
+        <item>ENG</item>
+        <item>AUT</item>
+    </string-array>
+
+    <string-array name="Teams58PlayOff">
+        <item>NIR</item>
+        <item>TCH</item>
+        <item>WAL</item>
+        <item>HUN</item>
+        <item>RUS</item>
+        <item>ENG</item>
+    </string-array>
+
+    <string-array name="TeamsA62">
+        <item>RUS</item>
+        <item>YUG</item>
+        <item>URU</item>
+        <item>COL</item>
+    </string-array>
+
+    <string-array name="TeamsB62">
+        <item>GER</item>
+        <item>CHI</item>
+        <item>ITA</item>
+        <item>SUI</item>
+    </string-array>
+
+    <string-array name="TeamsC62">
+        <item>BRA</item>
+        <item>TCH</item>
+        <item>MEX</item>
+        <item>ESP</item>
+    </string-array>
+
+    <string-array name="TeamsD62">
+        <item>HUN</item>
+        <item>ENG</item>
+        <item>ARG</item>
+        <item>BUL</item>
+    </string-array>
+
+    <string-array name="TeamsA66">
+        <item>ENG</item>
+        <item>URU</item>
+        <item>MEX</item>
+        <item>FRA</item>
+    </string-array>
+
+    <string-array name="TeamsB66">
+        <item>GER</item>
+        <item>ARG</item>
+        <item>ESP</item>
+        <item>SUI</item>
+    </string-array>
+
+    <string-array name="TeamsC66">
+        <item>POR</item>
+        <item>HUN</item>
+        <item>BRA</item>
+        <item>BUL</item>
+    </string-array>
+
+    <string-array name="TeamsD66">
+        <item>RUS</item>
+        <item>PRK</item>
+        <item>ITA</item>
+        <item>CHL</item>
+    </string-array>
+
+    <string-array name="TeamsA70">
+        <item>RUS</item>
+        <item>MEX</item>
+        <item>BEL</item>
+        <item>SLV</item>
+    </string-array>
+
+    <string-array name="TeamsB70">
+        <item>ITA</item>
+        <item>URU</item>
+        <item>SWE</item>
+        <item>ISR</item>
+    </string-array>
+
+    <string-array name="TeamsC70">
+        <item>BRA</item>
+        <item>ENG</item>
+        <item>ROM</item>
+        <item>TCH</item>
+    </string-array>
+
+    <string-array name="TeamsD70">
+        <item>GER</item>
+        <item>PER</item>
+        <item>BUL</item>
+        <item>MAR</item>
+    </string-array>
+
+    <string-array name="TeamsA74">
+        <item>GDR</item>
+        <item>GER</item>
+        <item>CHI</item>
+        <item>AUS</item>
+    </string-array>
+
+    <string-array name="TeamsB74">
+        <item>YUG</item>
+        <item>BRA</item>
+        <item>SCO</item>
+        <item>COD</item>
+    </string-array>
+
+    <string-array name="TeamsC74">
+        <item>NED</item>
+        <item>SWE</item>
+        <item>BUL</item>
+        <item>URU</item>
+    </string-array>
+
+    <string-array name="TeamsD74">
+        <item>POL</item>
+        <item>ARG</item>
+        <item>ITA</item>
+        <item>HAI</item>
+    </string-array>
+
+    <string-array name="TeamsA78">
+        <item>ITA</item>
+        <item>ARG</item>
+        <item>FRA</item>
+        <item>HUN</item>
+    </string-array>
+
+    <string-array name="TeamsB78">
+        <item>POL</item>
+        <item>GER</item>
+        <item>TUN</item>
+        <item>MEX</item>
+    </string-array>
+
+    <string-array name="TeamsC78">
+        <item>AUT</item>
+        <item>BRA</item>
+        <item>ESP</item>
+        <item>SWE</item>
+    </string-array>
+
+    <string-array name="TeamsD78">
+        <item>PER</item>
+        <item>NED</item>
+        <item>SCO</item>
+        <item>IRN</item>
+    </string-array>
+
+    <string-array name="TeamsA82">
+        <item>POL</item>
+        <item>ITA</item>
+        <item>CMR</item>
+        <item>PER</item>
+    </string-array>
+
+    <string-array name="TeamsB82">
+        <item>GER</item>
+        <item>AUT</item>
+        <item>ALG</item>
+        <item>CHL</item>
+    </string-array>
+
+    <string-array name="TeamsC82">
+        <item>BEL</item>
+        <item>ARG</item>
+        <item>HUR</item>
+        <item>SLV</item>
+    </string-array>
+
+    <string-array name="TeamsD82">
+        <item>ENG</item>
+        <item>FRA</item>
+        <item>TCH</item>
+        <item>KUW</item>
+    </string-array>
+
+    <string-array name="TeamsE82">
+        <item>NIR</item>
+        <item>ESP</item>
+        <item>YUG</item>
+        <item>HON</item>
+    </string-array>
+
+    <string-array name="TeamsF82">
+        <item>BRA</item>
+        <item>RUS</item>
+        <item>SC0</item>
+        <item>NZL</item>
+    </string-array>
+
+    <string-array name="TeamsA86">
+        <item>ARG</item>
+        <item>ITA</item>
+        <item>BUL</item>
+        <item>KOR</item>
+    </string-array>
+
+    <string-array name="TeamsB86">
+        <item>MEX</item>
+        <item>PAR</item>
+        <item>BEL</item>
+        <item>IRQ</item>
+    </string-array>
+
+    <string-array name="TeamsC86">
+        <item>RUS</item>
+        <item>FRA</item>
+        <item>HUN</item>
+        <item>CAN</item>
+    </string-array>
+
+    <string-array name="TeamsD86">
+        <item>BRA</item>
+        <item>ESP</item>
+        <item>NIR</item>
+        <item>ALG</item>
+    </string-array>
+
+    <string-array name="TeamsE86">
+        <item>DEN</item>
+        <item>GDR</item>
+        <item>URU</item>
+        <item>SCO</item>
+    </string-array>
+
+    <string-array name="TeamsF86">
+        <item>MAR</item>
+        <item>ENG</item>
+        <item>POL</item>
+        <item>POR</item>
+    </string-array>
+
+    <string-array name="TeamsA90">
+        <item>ITA</item>
+        <item>TCH</item>
+        <item>AUT</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="TeamsB90">
+        <item>CAM</item>
+        <item>ROM</item>
+        <item>ARG</item>
+        <item>RUS</item>
+    </string-array>
+
+    <string-array name="TeamsC90">
+        <item>BRA</item>
+        <item>CRC</item>
+        <item>SCO</item>
+        <item>SWE</item>
+    </string-array>
+
+    <string-array name="TeamsD90">
+        <item>GER</item>
+        <item>YUG</item>
+        <item>COL</item>
+        <item>UAE</item>
+    </string-array>
+
+    <string-array name="TeamsE90">
+        <item>ESP</item>
+        <item>BEL</item>
+        <item>URU</item>
+        <item>KOR</item>
+    </string-array>
+
+    <string-array name="TeamsF90">
+        <item>ENG</item>
+        <item>IRL</item>
+        <item>NED</item>
+        <item>EGY</item>
+    </string-array>
+
+    <string-array name="TeamsA94">
+        <item>ROM</item>
+        <item>SUI</item>
+        <item>USA</item>
+        <item>COL</item>
+    </string-array>
+
+    <string-array name="TeamsB94">
+        <item>BRA</item>
+        <item>SWE</item>
+        <item>RUS</item>
+        <item>CAM</item>
+    </string-array>
+
+    <string-array name="TeamsC94">
+        <item>GER</item>
+        <item>ESP</item>
+        <item>KOR</item>
+        <item>BOL</item>
+    </string-array>
+
+    <string-array name="TeamsD94">
+        <item>NGA</item>
+        <item>BUL</item>
+        <item>ARG</item>
+        <item>GRE</item>
+    </string-array>
+
+    <string-array name="TeamsE94">
+        <item>MEX</item>
+        <item>IRL</item>
+        <item>ITA</item>
+        <item>NOR</item>
+    </string-array>
+
+    <string-array name="TeamsF94">
+        <item>NED</item>
+        <item>KSA</item>
+        <item>BEL</item>
+        <item>MAR</item>
+    </string-array>
+
+    <string-array name="TeamsA98">
+        <item>BRA</item>
+        <item>NOR</item>
+        <item>MAR</item>
+        <item>SCO</item>
+    </string-array>
+
+    <string-array name="TeamsB98">
+        <item>ITA</item>
+        <item>CHI</item>
+        <item>AUT</item>
+        <item>CAM</item>
+    </string-array>
+
+    <string-array name="TeamsC98">
+        <item>FRA</item>
+        <item>DAN</item>
+        <item>RSA</item>
+        <item>KSA</item>
+    </string-array>
+
+    <string-array name="TeamsD98">
+        <item>NGA</item>
+        <item>PAR</item>
+        <item>ESP</item>
+        <item>BUL</item>
+    </string-array>
+
+    <string-array name="TeamsE98">
+        <item>NED</item>
+        <item>MEX</item>
+        <item>BEL</item>
+        <item>KOR</item>
+    </string-array>
+
+    <string-array name="TeamsF98">
+        <item>GER</item>
+        <item>YUG</item>
+        <item>IRN</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="TeamsG98">
+        <item>ROM</item>
+        <item>ENG</item>
+        <item>COL</item>
+        <item>TUN</item>
+    </string-array>
+
+    <string-array name="TeamsH98">
+        <item>ARG</item>
+        <item>CRO</item>
+        <item>JAM</item>
+        <item>JPN</item>
+    </string-array>
+
+    <string-array name="TeamsA02">
+        <item>DAN</item>
+        <item>SEN</item>
+        <item>URU</item>
+        <item>FRA</item>
+    </string-array>
+
+    <string-array name="TeamsB02">
+        <item>ESP</item>
+        <item>PAR</item>
+        <item>RSA</item>
+        <item>SVN</item>
+    </string-array>
+
+    <string-array name="TeamsC02">
+        <item>BRA</item>
+        <item>TUR</item>
+        <item>CRC</item>
+        <item>CHN</item>
+    </string-array>
+
+    <string-array name="TeamsD02">
+        <item>KOR</item>
+        <item>USA</item>
+        <item>POR</item>
+        <item>POL</item>
+    </string-array>
+
+    <string-array name="TeamsE02">
+        <item>GER</item>
+        <item>IRL</item>
+        <item>CAM</item>
+        <item>KSA</item>
+    </string-array>
+
+    <string-array name="TeamsF02">
+        <item>SWE</item>
+        <item>ENG</item>
+        <item>ARG</item>
+        <item>NGA</item>
+    </string-array>
+
+    <string-array name="TeamsG02">
+        <item>MEX</item>
+        <item>ITA</item>
+        <item>CRO</item>
+        <item>ECU</item>
+    </string-array>
+
+    <string-array name="TeamsH02">
+        <item>JPN</item>
+        <item>BEL</item>
+        <item>RUS</item>
+        <item>TUN</item>
+    </string-array>
+
+    <string-array name="TeamsA06">
+        <item>GER</item>
+        <item>ECU</item>
+        <item>POL</item>
+        <item>CRC</item>
+    </string-array>
+
+    <string-array name="TeamsB06">
+        <item>ENG</item>
+        <item>SWE</item>
+        <item>PAR</item>
+        <item>TRI</item>
+    </string-array>
+
+    <string-array name="TeamsC06">
+        <item>ARG</item>
+        <item>NED</item>
+        <item>CIV</item>
+        <item>SRB</item>
+    </string-array>
+
+    <string-array name="TeamsD06">
+        <item>POR</item>
+        <item>MEX</item>
+        <item>ANG</item>
+        <item>IRN</item>
+    </string-array>
+
+    <string-array name="TeamsE06">
+        <item>ITA</item>
+        <item>GHA</item>
+        <item>CZE</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="TeamsF06">
+        <item>BRA</item>
+        <item>AUS</item>
+        <item>CRO</item>
+        <item>JPN</item>
+    </string-array>
+
+    <string-array name="TeamsG06">
+        <item>MEX</item>
+        <item>ITA</item>
+        <item>CRO</item>
+        <item>ECU</item>
+    </string-array>
+
+    <string-array name="TeamsH06">
+        <item>ESP</item>
+        <item>UKR</item>
+        <item>TUN</item>
+        <item>KSA</item>
+    </string-array>
+
+    <string-array name="TeamsA10">
+        <item>URU</item>
+        <item>MEX</item>
+        <item>RSA</item>
+        <item>FRA</item>
+    </string-array>
+
+    <string-array name="TeamsB10">
+        <item>ARG</item>
+        <item>KOR</item>
+        <item>GRE</item>
+        <item>NGR</item>
+    </string-array>
+
+    <string-array name="TeamsC10">
+        <item>USA</item>
+        <item>ENG</item>
+        <item>SVN</item>
+        <item>ALG</item>
+    </string-array>
+
+    <string-array name="TeamsD10">
+        <item>GER</item>
+        <item>GHA</item>
+        <item>AUS</item>
+        <item>SRB</item>
+    </string-array>
+
+    <string-array name="TeamsE10">
+        <item>NED</item>
+        <item>JPN</item>
+        <item>DAN</item>
+        <item>CAM</item>
+    </string-array>
+
+    <string-array name="TeamsF10">
+        <item>PAR</item>
+        <item>SVK</item>
+        <item>NZL</item>
+        <item>ITA</item>
+    </string-array>
+
+    <string-array name="TeamsG10">
+        <item>BRA</item>
+        <item>POR</item>
+        <item>CIV</item>
+        <item>PRK</item>
+    </string-array>
+
+    <string-array name="TeamsH10">
+        <item>ESP</item>
+        <item>CHI</item>
+        <item>SUI</item>
+        <item>HON</item>
+    </string-array>
+</resources>

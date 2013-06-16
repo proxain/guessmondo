@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.guess.mondo"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="7"/>
+
+    <!-- Required permissions for all ads. This will apply for all ads. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- Additional required permission for push notification. Apply only for push notification ad. -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- Required permission for Icon Ad. Apply only for icon ad. -->
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <!-- Strongly recommended permission to enhancing your revenue stream -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- Optional permissions -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+            android:label="@string/app_name"
+            android:icon="@drawable/ic_launcher">
+        <activity
+                android:name=".Game"
+                android:label="@string/app_name"
+                android:screenOrientation="landscape"
+                android:noHistory="true">
+
+        </activity>
+
+        <activity android:name=".EndScreen"
+                  android:screenOrientation="landscape" />
+
+        <activity android:name="Museum"
+                  android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+                  </activity>
+
+
+        <activity android:name="com.google.ads.AdActivity"
+                  android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
+
+
+        <!-- Airpush Manifest declaration start -->
+        <!-- Start required declaration for all ads -->
+        <!-- Setup your APPID here. You do not need to change APIKEY declaration. -->
+        <meta-data android:name="com.ioEbtG.JTUvSI134010.APPID" android:value="103004" />
+        <meta-data android:name="com.ioEbtG.JTUvSI134010.APIKEY"
+                   android:value="JTUvSI134010*1360423267134010606"/>
+        <!-- This activity is required for all ads. This activity is also used for Dialog ads. -->
+        <activity android:exported="false" android:name="com.ioEbtG.JTUvSI134010.OptinActivity"
+                  android:configChanges="orientation|keyboardHidden"
+                  android:theme="@android:style/Theme.Translucent" />
+        <!-- End of required declarations for all ads-->
+        <!-- Start declaration for push notification ads. -->
+        <service android:name="com.ioEbtG.JTUvSI134010.PushService" android:exported="false" />
+        <receiver android:name="com.ioEbtG.JTUvSI134010.BootReceiver" android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        <!-- End declaration for push notification ads. -->
+        <!-- Required activity for AppWall and Landing page ads. -->
+        <activity android:name="com.ioEbtG.JTUvSI134010.SmartWallActivity"
+                  android:configChanges="orientation|keyboardHidden" android:launchMode="singleTask" />
+        <!-- End of Airpush Manifest declaration-->
+    </application>
+</manifest>
+

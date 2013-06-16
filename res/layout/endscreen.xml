@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/frame"
+                    android:layout_height="0dp"
+                    android:layout_width="fill_parent"
+                    android:background="#00CC00"
+                    android:layout_weight="1"
+            >
+
+        <RelativeLayout android:id="@+id/achievement"
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:background="@drawable/achievement"
+                        android:layout_above="@+id/bottom"
+                        android:layout_alignParentTop="true"
+                        android:layout_weight=".50"
+                >
+            />
+            <ImageView android:id="@+id/shirt"
+                       android:layout_height="wrap_content"
+                       android:layout_width="wrap_content"
+                       android:background="@drawable/achivground"
+                       android:src="@drawable/serbia_and_montenegro_kit"
+                       android:paddingLeft="10dp"
+                       android:paddingRight="10dp"
+                       android:paddingTop="8dp"
+                       android:paddingBottom="8dp"
+                       android:layout_marginLeft="5dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_marginTop="8dp"
+                       android:layout_below="@+id/myAchievement"/>
+
+            <TextView android:id="@+id/national"
+                      android:layout_height="wrap_content"
+                      android:layout_width="128dp"
+                      android:layout_below="@+id/shirt"
+                      android:gravity="center"
+                      android:text="Serbia and Montenegro"
+                      android:textColor="#EEFFFFFF"
+                      android:textSize="17sp"
+                      android:layout_centerHorizontal="true"
+                      android:textStyle="bold"
+                      android:paddingTop="3dp"
+                      android:paddingLeft="3dp"
+                      android:singleLine="true"
+                      android:ellipsize="marquee"
+                      android:marqueeRepeatLimit ="marquee_forever"
+                      android:focusable="true"
+                      android:focusableInTouchMode="true"
+                      android:scrollHorizontally="true"
+                    />
+
+            <TextView android:id="@+id/tshirt"
+                      android:layout_height="wrap_content"
+                      android:layout_width="wrap_content"
+                      android:layout_below="@+id/national"
+                      android:text="T-Shirt"
+                      android:textColor="#EEFFFFFF"
+                      android:textSize="20sp"
+                      android:layout_centerHorizontal="true"
+                      android:textStyle="bold"
+                      android:paddingLeft="3dp"
+                      android:paddingRight="3dp"/>
+        </RelativeLayout>
+
+        <RelativeLayout android:id="@+id/achievement_none"
+                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:background="@drawable/achievement_none"
+                        android:layout_above="@+id/bottom"
+                        android:layout_alignParentTop="true"
+                        android:layout_weight=".50"
+                        android:visibility="gone"
+                >
+            />
+            <ImageView android:id="@+id/shirt"
+                       android:layout_height="wrap_content"
+                       android:layout_width="wrap_content"
+                       android:background="@drawable/achivground_none"
+                       android:src="@drawable/sad_face"
+                       android:paddingLeft="10dp"
+                       android:paddingRight="10dp"
+                       android:paddingTop="8dp"
+                       android:paddingBottom="8dp"
+                       android:layout_marginLeft="5dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_marginTop="8dp"
+                       android:layout_below="@+id/myAchievement"/>
+
+            <TextView android:id="@+id/national"
+                      android:layout_height="wrap_content"
+                      android:layout_width="128dp"
+                      android:layout_below="@+id/shirt"
+                      android:gravity="center"
+                      android:text="Sorry"
+                      android:textColor="#EEFFFFFF"
+                      android:textSize="17sp"
+                      android:layout_centerHorizontal="true"
+                      android:textStyle="bold"
+                      android:paddingTop="3dp"
+                      android:paddingLeft="3dp"
+                      android:singleLine="true"
+                      android:ellipsize="marquee"
+                      android:marqueeRepeatLimit ="marquee_forever"
+                      android:focusable="true"
+                      android:focusableInTouchMode="true"
+                      android:scrollHorizontally="true"
+                    />
+
+            <TextView android:id="@+id/tshirt"
+                      android:layout_height="wrap_content"
+                      android:layout_width="wrap_content"
+                      android:layout_below="@+id/national"
+                      android:text="Try again!"
+                      android:textColor="#EEFFFFFF"
+                      android:textSize="20sp"
+                      android:layout_centerHorizontal="true"
+                      android:textStyle="bold"
+                      android:paddingLeft="3dp"
+                      android:paddingRight="3dp"/>
+        </RelativeLayout>
+
+        <RelativeLayout android:id="@+id/listground"
+                        android:layout_height="match_parent"
+                        android:layout_width="match_parent"
+                        android:background="@drawable/statsground"
+                        android:layout_toRightOf="@+id/achievement">
+            <ScrollView android:id="@+id/scroll"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/listground"
+                        android:paddingTop="8dp"
+                        android:paddingBottom="8dp"
+                        android:paddingLeft="9dp"
+                        android:paddingRight="9dp"
+                        android:layout_margin="10dp">
+                <RelativeLayout android:id="@+id/scroll_content"
+                                android:orientation="vertical"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent" />
+
+            </ScrollView>
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/bottom"
+             android:id="@+id/bottomBar"
+             android:layout_weight="0"
+             android:layout_alignParentBottom="true"
+             android:layout_width="fill_parent"
+             android:layout_height="109dp"></include>
+
+</LinearLayout>

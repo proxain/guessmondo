@@ -1,0 +1,305 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+              android:id="@+id/main"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <com.google.ads.AdView android:id="@+id/adView"
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:rotation="90"
+                           ads:adUnitId="a1511823b1c1281"
+                           ads:adSize="SMART_BANNER"
+                           ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+                           ads:loadAdOnCreate="true"/>
+
+    <RelativeLayout android:id="@+id/frame"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_below="@+id/adbar">
+
+        <RelativeLayout android:id="@+id/frameground"
+                        android:layout_height="match_parent"
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:background="@drawable/frameground">
+
+            <RelativeLayout android:id="@+id/center_info"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:padding="2dp"
+                            android:background="@drawable/infoground">
+
+                <ImageView android:id="@+id/flag"
+                           android:layout_height="wrap_content"
+                           android:layout_width="wrap_content"
+                           android:paddingBottom="1dp"
+                           android:src="@drawable/spain" />
+
+                <View android:id="@+id/line1"
+                      android:layout_height="1dp"
+                      android:layout_width="100dp"
+                      android:layout_below="@+id/flag"
+                      android:background="#55000000" />
+
+                <TextView android:id="@+id/year"
+                          android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:layout_below="@+id/line1"
+                          android:text="82"
+                          android:textColor="#CC000000"
+                          android:textSize="28sp"
+                          android:layout_centerHorizontal="true"
+                          android:textStyle="bold" />
+
+                <View android:id="@+id/line"
+                      android:layout_height="1dp"
+                      android:layout_width="100dp"
+                      android:layout_below="@+id/year"
+                      android:background="#55000000" />
+
+                <TextView android:id="@+id/date"
+                          android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:layout_below="@+id/line"
+                          android:text="15 June"
+                          android:textSize="22dp"
+                          android:textStyle="bold"
+                          android:textColor="#CC000000"
+                          android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+            <RelativeLayout android:id="@+id/home"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_toLeftOf="@+id/center_info"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:paddingBottom="2dp"
+                            android:background="#55CCCCCC">
+
+                <ImageView android:id="@+id/home_flag"
+                           android:layout_height="wrap_content"
+                           android:layout_width="wrap_content"
+                           android:layout_centerHorizontal="true"
+                           android:padding="1dp"
+                           android:src="@drawable/fra_flag" />
+                <TextView android:id="@+id/home_name"
+                          android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:layout_below="@id/home_flag"
+                          android:layout_centerHorizontal="true"
+                          android:gravity="center"
+                          android:layout_marginLeft="5dp"
+                          android:layout_marginRight="5dp"
+                          android:text="FRA"
+                          android:textSize="18sp"
+                          android:textColor="#CCFFFFFF"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout android:id="@+id/away"
+                            android:layout_height="wrap_content"
+                            android:layout_width="match_parent"
+                            android:layout_toRightOf="@+id/center_info"
+                            android:layout_marginTop="20dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:paddingBottom="2dp"
+                            android:background="#55CCCCCC">
+                <ImageView android:id="@+id/away_flag"
+                           android:layout_height="wrap_content"
+                           android:layout_width="wrap_content"
+                           android:layout_centerHorizontal="true"
+                           android:padding="1dp"
+                           android:src="@drawable/mex_flag" />
+                <TextView android:id="@+id/away_name"
+                          android:layout_height="wrap_content"
+                          android:layout_width="match_parent"
+                          android:layout_below="@id/away_flag"
+                          android:layout_centerHorizontal="true"
+                          android:gravity="center"
+                          android:layout_marginLeft="5dp"
+                          android:layout_marginRight="5dp"
+                          android:paddingLeft="5dp"
+                          android:paddingRight="5dp"
+                          android:text="MEX"
+                          android:textSize="18sp"
+                          android:textColor="#CCFFFFFF"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout android:id="@+id/play"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:layout_below="@id/home"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="10dp"
+                            android:padding="2dp">
+
+                <RelativeLayout android:id="@+id/playground"
+                                android:layout_height="match_parent"
+                                android:layout_width="wrap_content"
+                                android:background="@drawable/play_ground">
+
+                    <RadioGroup
+                            android:id="@+id/radioGroup1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/myInfo"
+                            android:orientation="horizontal"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:layout_centerInParent="true">
+                        <RadioButton
+                                android:id="@+id/homeRB"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:button="@drawable/radio_buttons"
+                                />
+                        <TextView android:id="@+id/one"
+                                  android:layout_height="wrap_content"
+                                  android:layout_width="wrap_content"
+                                  android:layout_marginRight="15dp"
+                                  android:text="1"
+                                  android:textColor="#FFFFFF"
+                                  android:textStyle="bold"
+                                  android:textSize="18sp"/>
+
+                        <RadioButton
+                                android:id="@+id/drawRB"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:button="@drawable/radio_buttons"
+                                />
+                        <TextView android:id="@+id/ex"
+                                  android:layout_height="wrap_content"
+                                  android:layout_width="wrap_content"
+                                  android:layout_marginRight="15dp"
+                                  android:text="X"
+                                  android:textColor="#FFFFFF"
+                                  android:textStyle="bold"
+                                  android:textSize="18sp"/>
+                        <RadioButton
+                                android:id="@+id/awayRB"
+                                android:layout_width="wrap_content"
+                                android:layout_height="fill_parent"
+                                android:button="@drawable/radio_buttons"
+                                />
+                        <TextView android:id="@+id/two"
+                                  android:layout_height="wrap_content"
+                                  android:layout_width="wrap_content"
+                                  android:text="2"
+                                  android:textColor="#FFFFFF"
+                                  android:textStyle="bold"
+                                  android:textSize="18sp"/>
+                    </RadioGroup>
+                    <RelativeLayout android:id="@+id/myInfo"
+                                    android:layout_height="wrap_content"
+                                    android:layout_width="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:padding="2dp">
+                        <RelativeLayout android:id="@+id/time"
+                                        android:layout_height="wrap_content"
+                                        android:layout_width="wrap_content"
+                                        android:background="@drawable/timeground"
+
+                                        android:layout_marginTop="2dp"
+                                        android:padding="8dp"
+                                        android:layout_alignParentLeft="true">
+
+                            <ImageView android:id="@+id/clock"
+                                       android:layout_height="wrap_content"
+                                       android:layout_width="wrap_content"
+                                       android:layout_alignParentLeft="true"
+                                       android:src="@drawable/clock_icon"
+                                       android:paddingRight="5dp"/>
+
+                            <TextView android:id="@+id/full_time"
+                                      android:layout_height="wrap_content"
+                                      android:layout_width="wrap_content"
+                                      android:text="90' min"
+                                      android:textSize="16sp"
+                                      android:textColor="#CC000000"
+                                      android:textStyle="bold"
+                                      android:layout_toRightOf="@id/clock"/>
+                        </RelativeLayout>
+                        <RelativeLayout android:id="@+id/trueground"
+                                        android:layout_height="wrap_content"
+                                        android:layout_width="wrap_content"
+                                        android:background="@drawable/timeground"
+                                        android:padding="8dp"
+                                        android:layout_toRightOf="@+id/time" android:layout_below="@+id/radioGroup1"
+                                        android:layout_marginLeft="2dp"
+                                        android:layout_marginTop="2dp">
+
+                            <ImageView android:id="@+id/true_img"
+                                       android:layout_height="wrap_content"
+                                       android:layout_width="wrap_content"
+                                       android:layout_alignParentLeft="true"
+                                       android:src="@drawable/tick"
+                                       android:paddingRight="5dp"/>
+
+                            <TextView android:id="@+id/my_true"
+                                      android:layout_height="wrap_content"
+                                      android:layout_width="wrap_content"
+                                      android:text="0"
+                                      android:textSize="16sp"
+                                      android:textColor="#CC000000"
+                                      android:textStyle="bold"
+                                      android:layout_toRightOf="@id/true_img"/>
+                        </RelativeLayout>
+                        <RelativeLayout android:id="@+id/falseground"
+                                        android:layout_height="wrap_content"
+                                        android:layout_width="wrap_content"
+                                        android:background="@drawable/timeground"
+                                        android:padding="8dp"
+                                        android:layout_toRightOf="@+id/trueground" android:layout_below="@+id/radioGroup1"
+                                        android:layout_marginLeft="2dp"
+                                        android:layout_marginTop="2dp">
+
+                            <ImageView android:id="@+id/false_img"
+                                       android:layout_height="wrap_content"
+                                       android:layout_width="wrap_content"
+                                       android:layout_alignParentLeft="true"
+                                       android:src="@drawable/tock"
+                                       android:paddingRight="5dp"/>
+
+                            <TextView android:id="@+id/my_false"
+                                      android:layout_height="wrap_content"
+                                      android:layout_width="wrap_content"
+                                      android:text="0"
+                                      android:textSize="16sp"
+                                      android:textColor="#CC000000"
+                                      android:textStyle="bold"
+                                      android:layout_toRightOf="@id/false_img"/>
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <Button android:id="@+id/next"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:background="@drawable/button_next"
+                        android:layout_toRightOf="@id/playground"
+                        android:layout_centerVertical="true"/>
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>
+
+
+

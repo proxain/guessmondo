@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="home_30">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+
+        <item>8</item>
+        <item>7</item>
+        <item>7</item>
+
+        <item>10</item>
+        <item>10</item>
+        <item>11</item>
+	
+		<item>0</item>
+		<item>7</item>
+
+		<item>7</item>    
+    </integer-array>
+
+	<integer-array name="home_34">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+		<item>12</item>
+        <item>14</item>
+
+        <item>12</item>
+        <item>6</item>
+        <item>14</item>
+        <item>8</item>
+
+        <item>6</item>
+
+        <item>6</item>
+        <item>8</item>
+	
+		<item>14</item>
+
+		<item>6</item>    
+    </integer-array>
+
+	<integer-array name="home_38">
+        <item>0</item>
+        <item>2</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+		<item>12</item>
+        <item>14</item>
+		
+		<item>1</item>
+		<item>6</item>
+
+        <item>0</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+
+        <item>12</item>
+
+        <item>2</item>
+        <item>10</item>
+	
+		<item>4</item>
+
+		<item>2</item>    
+    </integer-array>
+
+	<integer-array name="home_50">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+		<item>7</item>
+        <item>4</item>
+        <item>6</item>
+
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+	
+		<item>12</item>
+
+		<item>12</item>
+		<item>0</item>
+		<item>0</item>
+		<item>12</item>
+		<item>8</item>
+		<item>12</item>    
+    </integer-array>
+
+	<integer-array name="home_54">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+
+        <item>8</item>
+		<item>9</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>13</item>
+        <item>12</item>
+        <item>14</item>
+		<item>12</item>
+
+		<item>5</item>
+		<item>13</item>
+
+		<item>9</item>
+		<item>8</item>
+		<item>0</item>
+		<item>1</item>
+
+		<item>4</item>
+		<item>5</item>
+
+		<item>8</item>
+		
+		<item>4</item>
+    </integer-array>
+
+	<integer-array name="home_58">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+		<item>6</item>
+        <item>4</item>
+        <item>6</item>
+
+		<item>8</item>
+		<item>10</item>
+		<item>11</item>
+		<item>8</item>
+		<item>8</item>
+		<item>10</item>
+
+		<item>12</item>
+		<item>13</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>12</item>
+
+        <item>1</item>
+        <item>9</item>
+        <item>13</item>
+
+		//0-ger 1-nir 4-fra 5-yug 8-swe 9-wal 12-bra 13-rus
+	
+		<item>4</item>
+		<item>8</item>
+		<item>12</item>
+		<item>0</item>
+
+		<item>4</item>
+		<item>0</item>
+
+		<item>0</item>
+
+		<item>8</item>    
+    </integer-array>
+
+    <integer-array name="home_62">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+        <item>11</item>
+        <item>8</item>
+        <item>10</item>
+
+        <item>14</item>
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+
+        //0-rus 1-yug 4-ger 5-chi 8-bra 9-tch 12-hun 13-eng
+
+        <item>5</item>
+        <item>9</item>
+        <item>8</item>
+        <item>1</item>
+
+        <item>9</item>
+        <item>8</item>
+
+        <item>5</item>
+
+        <item>8</item>
+    </integer-array>
+
+    <integer-array name="home_66">
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+
+        <item>10</item>
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+
+        //0-eng 1-uru 4-ger 5-arg 8-por 9-hun 12-rus 13-prk
+
+        <item>8</item>
+        <item>4</item>
+        <item>12</item>
+        <item>0</item>
+
+        <item>4</item>
+        <item>0</item>
+
+        <item>8</item>
+
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="home_70">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>6</item>
+        <item>4</item>
+
+        <item>9</item>
+        <item>8</item>
+        <item>10</item>
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>13</item>
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>15</item>
+
+        //0-rus 1-mex 4-ita 5-uru 8-bra 9-eng 12-ger 13-per
+
+        <item>12</item>
+        <item>8</item>
+        <item>4</item>
+        <item>5</item>
+
+        <item>8</item>
+        <item>4</item>
+
+        <item>12</item>
+
+        <item>8</item>
+    </integer-array>
+
+	<integer-array name="home_74">
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+
+        <item>5</item>
+        <item>7</item>
+        <item>4</item>
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+
+        <item>11</item>
+        <item>9</item>
+        <item>11</item>
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>14</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>13</item>
+        <item>12</item>
+
+		// 0-gdr 1-ger 4-yug 5-bra 8-ned 9-swe 12-pol 13-arg
+
+		<item>8</item>
+        <item>5</item>
+        <item>13</item>
+        <item>0</item>
+        <item>13</item>
+        <item>8</item>
+
+        <item>4</item>
+        <item>9</item>
+        <item>12</item>
+        <item>1</item>
+        <item>12</item>
+        <item>9</item>
+		
+		<item>5</item>
+
+        <item>8</item>
+	</integer-array>
+
+	<integer-array name="home_78">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>5</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>9</item>
+
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>14</item>
+
+		// 0-ita 1-arg 4-pol 5-ger 8-aut 9-bra 12-per 13ned
+
+		<item>8</item>
+        <item>0</item>
+        <item>13</item>
+        <item>0</item>
+        <item>8</item>
+        <item>0</item>
+
+        <item>12</item>
+        <item>1</item>
+        <item>12</item>
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+		
+		<item>9</item>
+
+        <item>13</item>
+	</integer-array>
+
+    <integer-array name="home_82">
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>4</item>
+        <item>7</item>
+        <item>4</item>
+        <item>6</item>
+        <item>6</item>
+        <item>4</item>
+
+        <item>9</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>8</item>
+        <item>9</item>
+
+        <item>12</item>
+        <item>14</item>
+        <item>12</item>
+        <item>13</item>
+        <item>13</item>
+        <item>12</item>
+
+        <item>17</item>
+        <item>18</item>
+        <item>17</item>
+        <item>19</item>
+        <item>19</item>
+        <item>17</item>
+
+        <item>20</item>
+        <item>22</item>
+        <item>20</item>
+        <item>21</item>
+        <item>21</item>
+        <item>20</item>
+
+		// 0-pol 1-ita 4-ger 5-aut 8-bel 9-arg
+		// 12-eng 13-fra 16-nir 17-esp 20-bra 21-rus
+
+        <item>0</item>
+        <item>8</item>
+        <item>21</item>
+
+        <item>4</item>
+        <item>4</item>
+        <item>17</item>
+
+        <item>1</item>
+        <item>9</item>
+        <item>1</item>
+
+        <item>5</item>
+        <item>5</item>
+        <item>16</item>
+
+        <item>0</item>
+        <item>4</item>
+
+        <item>0</item>
+
+        <item>1</item>
+    </integer-array>
+
+	<integer-array name="home_86">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>3</item>
+        <item>0</item>
+
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>7</item>
+        <item>5</item>
+        <item>7</item>
+
+        <item>11</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+
+        <item>13</item>
+        <item>15</item>
+        <item>12</item>
+        <item>14</item>
+        <item>14</item>
+        <item>15</item>
+
+        <item>18</item>
+        <item>19</item>
+        <item>17</item>
+        <item>16</item>
+        <item>16</item>
+        <item>19</item>
+
+        <item>20</item>
+        <item>23</item>
+        <item>21</item>
+        <item>22</item>
+        <item>21</item>
+        <item>23</item>
+
+		// 0-arg 1-ita 2-bul 4-mex 5-par 6-bel 8-rus 9-fra
+		// 12-bra 13-esp 16-den 17-ger 18-uru 20-mar 21-eng 22-pol
+
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>0</item>
+        <item>1</item>
+        <item>20</item>
+        <item>21</item>
+        <item>16</item>
+
+        <item>12</item>
+        <item>17</item>
+        <item>0</item>
+        <item>13</item>
+
+        <item>9</item>
+        <item>0</item>
+
+        <item>9</item>
+
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="home_90">
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>6</item>
+        <item>7</item>
+        <item>6</item>
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+        <item>11</item>
+        <item>8</item>
+        <item>11</item>
+
+        <item>15</item>
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+
+        <item>17</item>
+        <item>18</item>
+        <item>17</item>
+        <item>19</item>
+        <item>17</item>
+        <item>19</item>
+
+        <item>20</item>
+        <item>22</item>
+        <item>20</item>
+        <item>21</item>
+        <item>20</item>
+        <item>21</item>
+
+        // 0-ita 1-tch 4-cam 5-rom 6-arg 8-bra 9-crc 12-ger
+        // 13-yug 14-col 16-esp 17-bel 18-uru 20-eng 21-irl 22-ned
+
+        <item>4</item>
+        <item>1</item>
+        <item>8</item>
+        <item>12</item>
+        <item>21</item>
+        <item>0</item>
+        <item>16</item>
+        <item>20</item>
+
+        <item>13</item>
+        <item>0</item>
+        <item>12</item>
+        <item>20</item>
+
+        <item>0</item>
+        <item>12</item>
+
+        <item>0</item>
+
+        <item>12</item>
+    </integer-array>
+
+    <integer-array name="home_94">
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>7</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>4</item>
+
+        <item>8</item>
+        <item>9</item>
+        <item>8</item>
+        <item>10</item>
+        <item>11</item>
+        <item>8</item>
+
+        <item>14</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>14</item>
+        <item>15</item>
+
+        <item>18</item>
+        <item>19</item>
+        <item>18</item>
+        <item>16</item>
+        <item>18</item>
+        <item>17</item>
+
+        <item>22</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>22</item>
+        <item>23</item>
+
+        // 0-rom 1-sui 2-usa 4-bra 5-swe 8-ger 9-esp 12-nga
+        // 13-bul 14-arg 16-mex 17-irl 18-ita 20-ned 21-ksa 22-bel
+
+        <item>8</item>
+        <item>9</item>
+        <item>21</item>
+        <item>0</item>
+        <item>20</item>
+        <item>4</item>
+        <item>12</item>
+        <item>16</item>
+
+        <item>18</item>
+        <item>20</item>
+        <item>13</item>
+        <item>0</item>
+
+        <item>13</item>
+        <item>5</item>
+
+        <item>5</item>
+
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="home_98">
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+
+        <item>4</item>
+        <item>7</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+
+        <item>11</item>
+        <item>8</item>
+        <item>10</item>
+        <item>8</item>
+        <item>8</item>
+        <item>10</item>
+
+        <item>13</item>
+        <item>14</item>
+        <item>12</item>
+        <item>14</item>
+        <item>12</item>
+        <item>14</item>
+
+        <item>19</item>
+        <item>16</item>
+        <item>18</item>
+        <item>16</item>
+        <item>16</item>
+        <item>18</item>
+
+        <item>21</item>
+        <item>20</item>
+        <item>20</item>
+        <item>23</item>
+        <item>23</item>
+        <item>20</item>
+
+        <item>25</item>
+        <item>24</item>
+        <item>26</item>
+        <item>24</item>
+        <item>26</item>
+        <item>24</item>
+
+        <item>28</item>
+        <item>30</item>
+        <item>31</item>
+        <item>28</item>
+        <item>28</item>
+        <item>31</item>
+
+        // 0-bra 1-nor 4-ita 5-chi 8-fra 9-den 12-nga 13-par
+        // 16-ned 17-mex 20-ger 21-yug 24-rom 25-eng 28-arg 29-cro
+
+        <item>4</item>
+        <item>0</item>
+        <item>8</item>
+        <item>12</item>
+        <item>20</item>
+        <item>16</item>
+        <item>24</item>
+        <item>28</item>
+
+        <item>4</item>
+        <item>0</item>
+        <item>16</item>
+        <item>20</item>
+
+        <item>0</item>
+        <item>8</item>
+
+        <item>16</item>
+
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="home_02">
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+
+        <item>8</item>
+        <item>11</item>
+        <item>8</item>
+        <item>10</item>
+        <item>10</item>
+        <item>9</item>
+
+        <item>12</item>
+        <item>13</item>
+        <item>12</item>
+        <item>14</item>
+        <item>14</item>
+        <item>15</item>
+
+        <item>17</item>
+        <item>16</item>
+        <item>16</item>
+        <item>18</item>
+        <item>18</item>
+        <item>19</item>
+
+        <item>22</item>
+        <item>21</item>
+        <item>20</item>
+        <item>22</item>
+        <item>20</item>
+        <item>23</item>
+
+        <item>26</item>
+        <item>25</item>
+        <item>25</item>
+        <item>24</item>
+        <item>24</item>
+        <item>27</item>
+
+        <item>28</item>
+        <item>30</item>
+        <item>28</item>
+        <item>31</item>
+        <item>31</item>
+        <item>29</item>
+
+        // 0-den 1-sen 4-esp 5-par 8-bra 9-tur 12-kor 13-usa
+        // 16-ger 17-irl 20-swe 21-eng 24-mex 25-ita 28-jpn 29-bel
+
+        <item>16</item>
+        <item>0</item>
+        <item>20</item>
+        <item>4</item>
+        <item>24</item>
+        <item>8</item>
+        <item>28</item>
+        <item>12</item>
+
+        <item>21</item>
+        <item>16</item>
+        <item>4</item>
+        <item>1</item>
+
+        <item>16</item>
+        <item>8</item>
+
+        <item>12</item>
+
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="home_06">
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+
+        <item>4</item>
+        <item>7</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>6</item>
+
+        <item>8</item>
+        <item>11</item>
+        <item>8</item>
+        <item>9</item>
+        <item>9</item>
+        <item>10</item>
+
+        <item>13</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>12</item>
+        <item>15</item>
+
+        <item>19</item>
+        <item>16</item>
+        <item>18</item>
+        <item>16</item>
+        <item>18</item>
+        <item>17</item>
+
+        <item>21</item>
+        <item>20</item>
+        <item>23</item>
+        <item>20</item>
+        <item>23</item>
+        <item>22</item>
+
+        <item>26</item>
+        <item>25</item>
+        <item>25</item>
+        <item>27</item>
+        <item>27</item>
+        <item>24</item>
+
+        <item>28</item>
+        <item>30</item>
+        <item>31</item>
+        <item>28</item>
+        <item>31</item>
+        <item>29</item>
+
+        // 0-ger 1-ecu 4-eng 5-swe 8-arg 9-ned 12-por 13-mex
+        // 16-ita 17-gha 20-bra 21-aus 24-sui 25-fra 28-esp 29-ukr
+
+        <item>0</item>
+        <item>8</item>
+        <item>4</item>
+        <item>12</item>
+        <item>16</item>
+        <item>24</item>
+        <item>20</item>
+        <item>28</item>
+
+        <item>0</item>
+        <item>16</item>
+        <item>4</item>
+        <item>20</item>
+
+        <item>0</item>
+        <item>12</item>
+
+        <item>0</item>
+
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="home_10">
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>6</item>
+
+        <item>9</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>10</item>
+        <item>8</item>
+
+        <item>15</item>
+        <item>12</item>
+        <item>12</item>
+        <item>13</item>
+        <item>13</item>
+        <item>14</item>
+
+        <item>16</item>
+        <item>17</item>
+        <item>16</item>
+        <item>19</item>
+        <item>18</item>
+        <item>19</item>
+
+        <item>23</item>
+        <item>22</item>
+        <item>21</item>
+        <item>23</item>
+        <item>21</item>
+        <item>20</item>
+
+        <item>26</item>
+        <item>24</item>
+        <item>24</item>
+        <item>25</item>
+        <item>25</item>
+        <item>27</item>
+
+        <item>31</item>
+        <item>28</item>
+        <item>29</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+
+        //0-uru 1-mex 4-arg 5-kor 8-usa 9-eng 12-ger 13-gha
+        //16-ned 17-jap 20-par 21-svk 24-bra 25-por 28-esp 29-chi
+
+        <item>0</item>
+        <item>8</item>
+        <item>12</item>
+        <item>4</item>
+        <item>16</item>
+        <item>24</item>
+        <item>20</item>
+        <item>28</item>
+
+        <item>16</item>
+        <item>0</item>
+        <item>4</item>
+        <item>20</item>
+
+        <item>0</item>
+        <item>12</item>
+
+        <item>0</item>
+
+        <item>16</item>
+    </integer-array>
+</resources>

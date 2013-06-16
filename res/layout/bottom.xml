@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <LinearLayout android:id="@+id/adline"
+                  android:layout_height="50dp"
+                  android:layout_width="fill_parent"
+                  android:layout_weight=".10"
+                  android:orientation="horizontal">
+        <com.google.ads.AdView android:id="@+id/adView"
+                               android:layout_width="wrap_content"
+                               android:layout_height="wrap_content"
+                               android:rotation="90"
+                               ads:adUnitId="a1511823b1c1281"
+                               ads:adSize="BANNER"
+                               ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+                               ads:loadAdOnCreate="true"
+                               android:layout_gravity="bottom"/>
+
+        <LinearLayout android:id="@+id/box"
+                        android:layout_height="50dp"
+                        android:layout_width="match_parent"
+                        android:gravity="right"
+                        android:orientation="horizontal"
+                        >
+            <LinearLayout android:id="@+id/myTrue"
+                          android:layout_height="match_parent"
+                          android:layout_width="wrap_content"
+                          android:layout_gravity="center"
+                          android:gravity="center"
+                          android:layout_weight=".50"
+                          android:background="@drawable/true_point"
+                          android:layout_marginRight="1dp"
+                          android:layout_marginLeft="1dp">
+                <ImageView android:id="@+id/true_img"
+                           android:layout_height="wrap_content"
+                           android:layout_width="wrap_content"
+                           android:src="@drawable/tick"
+                           android:paddingRight="5dp"/>
+
+                <TextView android:id="@+id/my_true"
+                          android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="10"
+                          android:textSize="16sp"
+                          android:textColor="#CC000000"
+                          android:textStyle="bold"
+                          android:layout_toRightOf="@id/true_img"/>
+
+                          </LinearLayout>
+
+            <LinearLayout android:id="@+id/myFalse"
+                          android:layout_height="match_parent"
+                          android:layout_width="wrap_content"
+                          android:layout_gravity="center"
+                          android:gravity="center"
+                          android:layout_weight=".50"
+                          android:background="@drawable/false_point"
+                          android:layout_marginRight="1dp">
+                <ImageView android:id="@+id/false_img"
+                           android:layout_height="wrap_content"
+                           android:layout_width="wrap_content"
+                           android:src="@drawable/tock"
+                           android:paddingRight="5dp"/>
+
+                <TextView android:id="@+id/my_false"
+                          android:layout_height="wrap_content"
+                          android:layout_width="wrap_content"
+                          android:text="9"
+                          android:textSize="16sp"
+                          android:textColor="#CC000000"
+                          android:textStyle="bold"
+                          android:layout_toRightOf="@id/true_img"/>
+
+            </LinearLayout>
+                        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/button1"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:layout_gravity="bottom"
+            >
+
+        <Button android:id="@+id/play_again"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:background="@drawable/mondo_button"
+                android:text="Play Again"
+                android:textColor="#FFFFFF"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="8dp"
+                android:layout_weight=".50"  />
+
+        <Button android:id="@+id/main_menu"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:background="@drawable/mondo_button_right"
+                android:text="Main Menu"
+                android:textColor="#FFFFFF"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:padding="8dp"
+                android:layout_weight=".50" />
+
+    </LinearLayout>
+
+</LinearLayout>

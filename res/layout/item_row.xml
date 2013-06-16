@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/list_selector"
+                android:orientation="horizontal"
+                android:padding="2dip"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+    <RelativeLayout android:id="@+id/match_info"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_toLeftOf="@+id/forecast">
+        <TextView android:id="@+id/home_team"
+                  android:layout_height="wrap_content"
+                  android:layout_width="wrap_content"
+                  android:layout_centerVertical="true"
+                  android:text="MEX"
+                  android:textStyle="bold"
+                  android:textSize="21sp"
+                  android:textColor="#CC000000"
+                  android:padding="4dp" />
+        <TextView android:id="@+id/away_team"
+                  android:layout_height="wrap_content"
+                  android:layout_width="wrap_content"
+                  android:layout_centerVertical="true"
+                  android:layout_alignParentRight="true"
+                  android:text="FRA"
+                  android:textStyle="bold"
+                  android:textSize="21sp"
+                  android:textColor="#CC000000"
+                  android:padding="4dp" />
+        <TextView android:id="@+id/vs_teams"
+                  android:layout_height="wrap_content"
+                  android:layout_width="wrap_content"
+                  android:layout_centerInParent="true"
+                  android:text="v"
+                  android:textStyle="bold"
+                  android:textSize="21sp"
+                  android:textColor="#CC000000"
+                  android:padding="4dp" />
+
+                    </RelativeLayout>
+    <TextView android:id="@+id/forecast"
+              android:layout_height="wrap_content"
+              android:layout_width="35dp"
+              android:layout_centerVertical="true"
+              android:text="1"
+              android:textStyle="bold"
+              android:textSize="21sp"
+              android:textColor="#CC000000"
+              android:padding="4dp"
+              android:gravity="center"
+              android:layout_marginRight="1dp"
+              android:layout_marginLeft="1dp"
+              android:layout_toLeftOf="@+id/solution"/>
+
+    <ImageView android:id="@+id/solution"
+               android:layout_height="wrap_content"
+               android:layout_width="35dp"
+               android:layout_alignParentRight="true"
+               android:src="@drawable/tick"
+               android:padding="5dp"/>
+
+</RelativeLayout>

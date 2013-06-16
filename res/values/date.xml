@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uru_date">
+        <item>13 July</item>
+        <item>15 July</item>
+        <item>16 July</item>
+        <item>19 July</item>
+        <item>19 July</item>
+        <item>22 July</item>
+
+        <item>14 July</item>
+        <item>17 July</item>
+        <item>20 July</item>
+
+        <item>14 July</item>
+        <item>18 July</item>
+        <item>21 July</item>
+
+        <item>13 July</item>
+        <item>17 July</item>
+        <item>20 July</item>
+
+        <item>26 July</item>
+        <item>27 July</item>
+
+        <item>30 July</item>
+    </string-array>
+
+    <string-array name="ita_date">
+        <item>27 May</item>
+        <item>27 May</item>
+        <item>27 May</item>
+        <item>27 May</item>
+
+        <item>27 May</item>
+        <item>27 May</item>
+        <item>27 May</item>
+        <item>27 May</item>
+
+        <item>31 May</item>
+        <item>31 May</item>
+        <item>31 May</item>
+        <item>31 May</item>
+
+        <item>1 June</item>
+
+        <item>3 June</item>
+        <item>3 June</item>
+
+        <item>7 June</item>
+
+        <item>10 June</item>
+    </string-array>
+
+    <string-array name="fra_date">
+        <item>4 June</item>
+        <item>5 June</item>
+        <item>5 June</item>
+
+        <item>5 June</item>
+        <item>5 June</item>
+        <item>5 June</item>
+        <item>5 June</item>
+
+        <item>9 June</item>
+        <item>9 June</item>
+
+        <item>12 June</item>
+        <item>12 June</item>
+        <item>12 June</item>
+        <item>12 June</item>
+
+        <item>14 June</item>
+
+        <item>16 June</item>
+        <item>16 June</item>
+
+        <item>19 June</item>
+
+        <item>19 June</item>
+    </string-array>
+
+    <string-array name="bra_date">
+        <item>24 June</item>
+        <item>25 June</item>
+        <item>28 June</item>
+        <item>28 June</item>
+        <item>1 July</item>
+        <item>2 July</item>
+
+        <item>25 June</item>
+        <item>25 June</item>
+        <item>29 June</item>
+        <item>29 June</item>
+        <item>2 July</item>
+        <item>2 July</item>
+
+        <item>25 June</item>
+        <item>29 June</item>
+        <item>2 July</item>
+
+        <item>2 July</item>
+
+        <item>9 July</item>
+        <item>9 July</item>
+        <item>13 July</item>
+        <item>13 July</item>
+        <item>16 July</item>
+        <item>16 July</item>
+    </string-array>
+
+    <string-array name="sui_date">
+        <item>16 June</item>
+        <item>16 June</item>
+        <item>19 June</item>
+        <item>19 June</item>
+
+        <item>17 June</item>
+        <item>17 June</item>
+        <item>20 June</item>
+        <item>20 June</item>
+
+        <item>16 June</item>
+        <item>16 June</item>
+        <item>19 June</item>
+        <item>19 June</item>
+
+        <item>17 June</item>
+        <item>17 June</item>
+        <item>20 June</item>
+        <item>20 June</item>
+
+        <item>23 June</item>
+        <item>23 June</item>
+
+        <item>26 June</item>
+        <item>27 June</item>
+        <item>27 June</item>
+        <item>27 June</item>
+
+        <item>30 June</item>
+        <item>30 June</item>
+
+        <item>3 July</item>
+
+        <item>4 July</item>
+    </string-array>
+
+    <string-array name="swe_date">
+        <item>8 June</item>
+        <item>8 June</item>
+        <item>11 June</item>
+        <item>11 June</item>
+        <item>15 June</item>
+        <item>15 June</item>
+
+		<item>8 June</item>
+        <item>8 June</item>
+        <item>11 June</item>
+        <item>11 June</item>
+        <item>15 June</item>
+        <item>15 June</item>
+
+		<item>8 June</item>
+        <item>8 June</item>
+        <item>11 June</item>
+        <item>12 June</item>
+        <item>15 June</item>
+        <item>15 June</item>
+
+		<item>8 June</item>
+        <item>8 June</item>
+        <item>11 June</item>
+        <item>11 June</item>
+        <item>15 June</item>
+        <item>15 June</item>
+
+		<item>17 June</item>
+        <item>17 June</item>
+        <item>17 June</item>
+
+        <item>19 June</item>
+        <item>19 June</item>
+        <item>19 June</item>
+		<item>19 June</item>
+
+        <item>24 June</item>
+        <item>24 June</item>
+
+        <item>28 June</item>
+
+        <item>29 June</item>
+    </string-array>
+
+	<string-array name="chi_date">
+		<item>30 May</item>
+		<item>31 May</item>
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+
+		<item>30 May</item>
+		<item>31 May</item>
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+
+		<item>30 May</item>
+		<item>31 May</item>
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+
+		<item>30 May</item>
+		<item>31 May</item>
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+
+		<item>10 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+
+		<item>13 June</item>
+		<item>13 June</item>
+
+		<item>16 June</item>
+
+		<item>17 June</item>
+	</string-array>
+
+	<string-array name="eng_date">
+		<item>11 July</item>
+		<item>13 July</item>
+		<item>15 July</item>
+		<item>16 July</item>
+		<item>19 July</item>
+		<item>20 July</item>
+
+		<item>12 July</item>
+		<item>13 July</item>
+		<item>15 July</item>
+		<item>16 July</item>
+		<item>19 July</item>
+		<item>20 July</item>
+
+		<item>12 July</item>
+		<item>13 July</item>
+		<item>15 July</item>
+		<item>16 July</item>
+		<item>19 July</item>
+		<item>20 July</item>
+
+		<item>12 July</item>
+		<item>13 July</item>
+		<item>15 July</item>
+		<item>16 July</item>
+		<item>19 July</item>
+		<item>20 July</item>
+
+		<item>23 July</item>
+		<item>23 July</item>
+		<item>23 July</item>
+		<item>23 July</item>
+
+		<item>25 July</item>
+		<item>26 July</item>
+
+		<item>28 July</item>
+
+		<item>30 July</item>
+	</string-array>
+
+	<string-array name="mex_date">
+		<item>31 May</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>10 June</item>
+		<item>11 June</item>
+
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>10 June</item>
+		<item>11 June</item>
+
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>10 June</item>
+		<item>11 June</item>
+
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>10 June</item>
+		<item>11 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>14 June</item>
+
+		<item>17 June</item>
+		<item>17 June</item>
+
+		<item>20 June</item>
+
+		<item>21 June</item>
+	</string-array>
+
+	<string-array name="ger_date">
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>13 June</item>
+		<item>14 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>26 June</item>
+		<item>26 June</item>
+		<item>30 June</item>
+		<item>30 June</item>
+		<item>3 July</item>
+		<item>3 July</item>
+
+		<item>26 June</item>
+		<item>26 June</item>
+		<item>30 June</item>
+		<item>30 June</item>
+		<item>3 July</item>
+		<item>3 July</item>
+
+		<item>6 July</item>
+
+		<item>7 July</item>
+	</string-array>
+
+	<string-array name="arg_date">
+		<item>2 June</item>
+		<item>2 June</item>
+		<item>6 June</item>
+		<item>6 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+
+		<item>1 June</item>
+		<item>2 June</item>
+		<item>6 June</item>
+		<item>6 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+
+		<item>3 June</item>
+		<item>3 June</item>
+		<item>7 June</item>
+		<item>7 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>3 June</item>
+		<item>3 June</item>
+		<item>7 June</item>
+		<item>7 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>24 June</item>
+
+		<item>25 June</item>
+	</string-array>
+
+	<string-array name="esp_date">
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>22 June</item>
+		<item>23 June</item>
+
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>20 June</item>
+		<item>21 June</item>
+		<item>24 June</item>
+		<item>25 June</item>
+
+		<item>13 June</item>
+		<item>15 June</item>
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>22 June</item>
+		<item>23 June</item>
+
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>20 June</item>
+		<item>21 June</item>
+		<item>24 June</item>
+		<item>25 June</item>
+
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>20 June</item>
+		<item>21 June</item>
+		<item>24 June</item>
+		<item>25 June</item>
+
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>22 June</item>
+		<item>23 June</item>
+
+		<item>28 June</item>
+		<item>1 July</item>
+		<item>4 July</item>
+
+		<item>29 June</item>
+		<item>2 July</item>
+		<item>5 July</item>
+
+		<item>29 June</item>
+		<item>2 July</item>
+		<item>5 July</item>
+
+		<item>28 June</item>
+		<item>1 July</item>
+		<item>4 July</item>
+
+		<item>8 July</item>
+		<item>8 July</item>
+
+		<item>10 July</item>
+
+		<item>11 July</item>
+	</string-array>
+
+	<string-array name="mex_date1">
+		<item>31 May</item>
+		<item>2 June</item>
+		<item>5 June</item>
+		<item>5 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+
+		<item>3 June</item>
+		<item>4 June</item>
+		<item>7 June</item>
+		<item>8 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>1 June</item>
+		<item>2 June</item>
+		<item>5 June</item>
+		<item>6 June</item>
+		<item>9 June</item>
+		<item>9 June</item>
+
+		<item>1 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>12 June</item>
+		<item>12 June</item>
+
+		<item>4 June</item>
+		<item>4 June</item>
+		<item>8 June</item>
+		<item>8 June</item>
+		<item>13 June</item>
+		<item>13 June</item>
+
+		<item>2 June</item>
+		<item>3 June</item>
+		<item>6 June</item>
+		<item>7 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+
+		<item>21 June</item>
+		<item>21 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>25 June</item>
+		<item>25 June</item>
+
+		<item>28 June</item>
+
+		<item>29 June</item>
+	</string-array>
+
+	<string-array name="ita_date1">
+		<item>9 June</item>
+		<item>10 June</item>
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+
+		<item>8 June</item>
+		<item>9 June</item>
+		<item>13 June</item>
+		<item>14 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+
+		<item>10 June</item>
+		<item>11 June</item>
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>20 June</item>
+		<item>20 June</item>
+
+		<item>9 June</item>
+		<item>10 June</item>
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+
+		<item>12 June</item>
+		<item>13 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>11 June</item>
+		<item>12 June</item>
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>23 June</item>
+		<item>23 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+		<item>26 June</item>
+		<item>26 June</item>
+
+		<item>30 June</item>
+		<item>30 June</item>
+		<item>1 July</item>
+		<item>1 July</item>
+
+		<item>3 July</item>
+		<item>4 July</item>
+
+		<item>7 July</item>
+
+		<item>8 July</item>
+	</string-array>
+
+	<string-array name="usa_date">
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+		<item>26 June</item>
+		<item>26 June</item>
+
+		<item>19 June</item>
+		<item>20 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+		<item>28 June</item>
+		<item>28 June</item>
+
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>21 June</item>
+		<item>23 June</item>
+		<item>27 June</item>
+		<item>27 June</item>
+
+		<item>21 June</item>
+		<item>21 June</item>
+		<item>25 June</item>
+		<item>26 June</item>
+		<item>30 June</item>
+		<item>30 June</item>
+
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>24 June</item>
+		<item>28 June</item>
+		<item>28 June</item>
+
+		<item>19 June</item>
+		<item>20 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+		<item>29 June</item>
+		<item>29 June</item>
+
+		<item>2 July</item>
+		<item>2 July</item>
+		<item>3 July</item>
+		<item>3 July</item>
+		<item>4 July</item>
+		<item>4 July</item>
+		<item>5 July</item>
+		<item>5 July</item>
+
+		<item>9 July</item>
+		<item>9 July</item>
+		<item>10 July</item>
+		<item>10 July</item>
+
+		<item>13 July</item>
+		<item>13 July</item>
+
+		<item>16 July</item>
+
+		<item>17 July</item>
+	</string-array>
+
+	<string-array name="fra_date1">
+		<item>10 June</item>
+		<item>10 June</item>
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>11 June</item>
+		<item>11 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>12 June</item>
+		<item>12 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+
+		<item>12 June</item>
+		<item>13 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+
+		<item>13 June</item>
+		<item>13 June</item>
+		<item>20 June</item>
+		<item>20 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+		<item>26 June</item>
+		<item>26 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>20 June</item>
+		<item>21 June</item>
+		<item>26 June</item>
+		<item>26 June</item>
+
+		<item>27 June</item>
+		<item>27 June</item>
+		<item>28 June</item>
+		<item>28 June</item>
+		<item>29 June</item>
+		<item>29 June</item>
+		<item>30 June</item>
+		<item>30 June</item>
+
+		<item>3 July</item>
+		<item>3 July</item>
+		<item>4 July</item>
+		<item>4 July</item>
+
+		<item>7 July</item>
+		<item>8 July</item>
+
+		<item>11 July</item>
+
+		<item>12 July</item>
+	</string-array>
+
+	<string-array name="jpa_date">
+		<item>31 May</item>
+		<item>1 June</item>
+		<item>6 June</item>
+		<item>6 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>2 June</item>
+		<item>2 June</item>
+		<item>7 June</item>
+		<item>8 June</item>
+		<item>12 June</item>
+		<item>12 June</item>
+
+		<item>3 June</item>
+		<item>4 June</item>
+		<item>8 June</item>
+		<item>9 June</item>
+		<item>13 June</item>
+		<item>13 June</item>
+
+		<item>4 June</item>
+		<item>5 June</item>
+		<item>10 June</item>
+		<item>10 June</item>
+		<item>14 June</item>
+		<item>14 June</item>
+
+		<item>1 June</item>
+		<item>1 June</item>
+		<item>5 June</item>
+		<item>6 June</item>
+		<item>11 June</item>
+		<item>11 June</item>
+
+		<item>2 June</item>
+		<item>2 June</item>
+		<item>7 June</item>
+		<item>7 June</item>
+		<item>12 June</item>
+		<item>12 June</item>
+
+		<item>3 June</item>
+		<item>3 June</item>
+		<item>8 June</item>
+		<item>9 June</item>
+		<item>13 June</item>
+		<item>13 June</item>
+
+		<item>4 June</item>
+		<item>5 June</item>
+		<item>9 June</item>
+		<item>10 June</item>
+		<item>14 June</item>
+		<item>14 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+
+		<item>21 June</item>
+		<item>21 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>25 June</item>
+		<item>26 June</item>
+
+		<item>29 June</item>
+
+		<item>30 June</item>
+	</string-array>
+
+	<string-array name="ger_date1">
+		<item>9 June</item>
+		<item>9 June</item>
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>20 June</item>
+		<item>20 June</item>
+
+		<item>10 June</item>
+		<item>10 June</item>
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>20 June</item>
+		<item>20 June</item>
+
+		<item>10 June</item>
+		<item>11 June</item>
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>11 June</item>
+		<item>11 June</item>
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+
+		<item>12 June</item>
+		<item>12 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>12 June</item>
+		<item>13 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>13 June</item>
+		<item>13 June</item>
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>24 June</item>
+		<item>24 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+		<item>26 June</item>
+		<item>26 June</item>
+		<item>27 June</item>
+		<item>27 June</item>
+
+		<item>30 June</item>
+		<item>30 June</item>
+		<item>1 July</item>
+		<item>1 July</item>
+
+		<item>4 July</item>
+		<item>5 July</item>
+
+		<item>8 July</item>
+
+		<item>9 July</item>
+	</string-array>
+
+	<string-array name="rsa_date">
+		<item>11 June</item>
+		<item>11 June</item>
+		<item>16 June</item>
+		<item>17 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>12 June</item>
+		<item>12 June</item>
+		<item>17 June</item>
+		<item>17 June</item>
+		<item>22 June</item>
+		<item>22 June</item>
+
+		<item>12 June</item>
+		<item>13 June</item>
+		<item>18 June</item>
+		<item>18 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>13 June</item>
+		<item>13 June</item>
+		<item>18 June</item>
+		<item>19 June</item>
+		<item>23 June</item>
+		<item>23 June</item>
+
+		<item>14 June</item>
+		<item>14 June</item>
+		<item>19 June</item>
+		<item>19 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+
+		<item>14 June</item>
+		<item>15 June</item>
+		<item>20 June</item>
+		<item>20 June</item>
+		<item>24 June</item>
+		<item>24 June</item>
+
+		<item>15 June</item>
+		<item>15 June</item>
+		<item>20 June</item>
+		<item>21 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+
+		<item>16 June</item>
+		<item>16 June</item>
+		<item>21 June</item>
+		<item>21 June</item>
+		<item>25 June</item>
+		<item>25 June</item>
+
+		<item>26 June</item>
+		<item>26 June</item>
+		<item>27 June</item>
+		<item>27 June</item>
+		<item>28 June</item>
+		<item>28 June</item>
+		<item>29 June</item>
+		<item>29 June</item>
+
+		<item>2 July</item>
+		<item>2 July</item>
+		<item>3 July</item>
+		<item>3 July</item>
+
+		<item>6 July</item>
+		<item>7 July</item>
+
+		<item>10 July</item>
+
+		<item>11 July</item>
+	</string-array>
+</resources>

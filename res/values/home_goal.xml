@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="home_goal30">
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>6</item>
+        <item>3</item>
+
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>6</item>
+        <item>6</item>
+
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="home_goal34">
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>7</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>5</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>1</item>
+
+        <item>1</item>
+        <item>3</item>
+
+        <item>3</item>
+
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal38">
+        <item>1</item>
+        <item>6</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>8</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>5</item>
+        <item>2</item>
+
+        <item>2</item>
+
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal50">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>5</item>
+
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>8</item>
+
+        <item>2</item>
+        <item>7</item>
+        <item>6</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal54">
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+
+        <item>4</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>7</item>
+        <item>5</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+
+        <item>7</item>
+        <item>4</item>
+
+        <item>7</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>6</item>
+
+        <item>1</item>
+
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal58">
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>6</item>
+
+        <item>7</item>
+        <item>1</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>4</item>
+
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>1</item>
+
+        <item>3</item>
+
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal62">
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+
+        <item>3</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>3</item>
+        <item>4</item>
+
+        <item>1</item>
+
+        <item>3</item>
+    </integer-array>
+
+    <integer-array name="home_goal66">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>5</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>2</item>
+
+        <item>2</item>
+
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="home_goal70">
+        <item>0</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>0</item>
+
+        <item>3</item>
+        <item>1</item>
+
+        <item>1</item>
+
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="home_goal74">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>3</item>
+
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>2</item>
+
+        <item>4</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>0</item>
+
+        <item>1</item>
+    </integer-array>
+
+    <integer-array name="home_goal78">
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>3</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>6</item>
+
+        <item>2</item>
+
+        <item>1</item>
+    </integer-array>
+
+    <integer-array name="home_goal82">
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>10</item>
+        <item>4</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>1</item>
+
+        <item>3</item>
+
+        <item>3</item>
+    </integer-array>
+
+    <integer-array name="home_goal86">
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>6</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>6</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>2</item>
+
+        <item>2</item>
+
+        <item>3</item>
+    </integer-array>
+
+    <integer-array name="home_goal90">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>4</item>
+        <item>1</item>
+        <item>5</item>
+        <item>1</item>
+        <item>4</item>
+
+        <item>2</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>4</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>1</item>
+    </integer-array>
+
+    <integer-array name="home_goal94">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>6</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>0</item>
+
+        <item>4</item>
+
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="home_goal98">
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>6</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>5</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>2</item>
+
+        <item>1</item>
+
+        <item>0</item>
+    </integer-array>
+
+	<integer-array name="home_goal02">
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>0</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+        <item>0</item>
+        <item>3</item>
+
+        <item>1</item>
+        <item>8</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>0</item>
+    </integer-array>
+
+	<integer-array name="home_goal06">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>0</item>
+        <item>6</item>
+        <item>2</item>
+        <item>0</item>
+        <item>3</item>
+
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>0</item>
+
+        <item>3</item>
+
+        <item>1</item>
+    </integer-array>
+
+	<integer-array name="home_goal10">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>0</item>
+
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>0</item>
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+
+        <item>2</item>
+        <item>0</item>
+
+        <item>2</item>
+
+        <item>0</item>
+    </integer-array>
+</resources>
